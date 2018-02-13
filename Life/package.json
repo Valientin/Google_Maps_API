@@ -1,0 +1,15 @@
+{
+  "name": "life",
+  "version": "1.0.0",
+  "description": "console game",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Valientin Kurzhii",
+  "license": "ISC"
+}
