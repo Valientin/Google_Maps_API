@@ -10,5 +10,9 @@
  Інструкція користувача:<br>
  Після запуску index.js, обрати відповідний метод заповнення ігрового поля(автоматично[1] або ж власноруч[2]). Якщо ви обрали запис власноруч, то спочатку вибирається номер рядка, а далі номер стовпчика ,які ви хотіли б заповнити. Якщо ви бажаєте добавити ще один запис то потрібно натиснути "Так"[y], а якщо ні - натискаєм [n].<br>
  ![Image alt](https://github.com/Valientin/Kurzhiy_KPP_lab_1/raw/master/Life1.PNG)<br>
- Screenshot_1 - меню вибору заповненя ігрового поля.
+ Screenshot_1 - меню вибору заповненя ігрового поля.<br>
+ ![Image alt](https://github.com/Valientin/Kurzhiy_KPP_lab_1/raw/master/Life2.PNG)<br>
+ Screenshot_2 - ігровий процес<br>
+ ![Image alt](https://github.com/Valientin/Kurzhiy_KPP_lab_1/raw/master/Life3.PNG)<br>
+ Screenshot_3 - Процес ручного заповнення<br>
  
